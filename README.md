@@ -12,7 +12,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=The-Perception&style=flat-square&color=blue" alt=""/>
 
-
+<h2>📈 The Perception's Github Stats</h2>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=The-Perception&show_icons=true&hide=&count_private=true&theme=dark&locale=en" alt="The-Perception" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Perception&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-perception" /></td>
+  </tr>
+</table>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Perception&theme=dark" alt="The-Perception" /></p>
+  </div>
+  
 
   
 
